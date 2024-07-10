@@ -1,0 +1,13 @@
+.Container{
+    max-width: 140rem;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    gap: 3rem;
+}
+.nav-links{
+    color: white;
+    font-weight: bold;
+}
